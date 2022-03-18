@@ -1,1 +1,1 @@
-# Introducci-n-a-la-Inteligencia-Artificial
+# Introduccion-a-la-Inteligencia-Artificial
